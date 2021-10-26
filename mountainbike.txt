@@ -1,0 +1,8 @@
+Like Excitebike
+
+race game against computer opponents
+
+forward, backward to change acceleration/brake
+
+up down to change lanes
+
